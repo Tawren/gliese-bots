@@ -1,0 +1,12 @@
+discord
+discord.py
+youtube_dl
+discord-py-slash-command
+js
+ffmpeg
+discord_components
+giphy_client
+wikipedia
+nextcord
+googletrans
+aiofiles

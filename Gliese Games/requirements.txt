@@ -1,0 +1,14 @@
+discord
+discord.py
+youtube_dl
+discord-py-slash-command
+js
+ffmpeg
+discord_components
+giphy_client
+wikipedia
+nextcord
+googletrans
+aiofiles
+
+embed.add_field(name = "`setnick [mention] [newnick]`", value = "**Change le pseudo d'un utilisateur**", inline = False)
